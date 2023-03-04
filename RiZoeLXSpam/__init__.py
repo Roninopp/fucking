@@ -133,8 +133,8 @@ async def RiZoeLX():
         try:
             print("Booting Up The Client 3")
             await  Riz3.start()
-            await Riz3(functions.channels.JoinChannelRequest(channel="@RiZoeLX"))
-            await Riz3(functions.channels.JoinChannelRequest(channel="@DNHxHELL"))
+            await Riz3(functions.channels.JoinChannelRequest(channel="@ROnin_Fighters_Fd"))
+            await Riz3(functions.channels.JoinChannelRequest(channel="@Imperial_arena"))
             botme = await Riz3.get_me()
             botid = telethon.utils.get_peer_id(botme)
             SUDO_USERS.append(botid)
