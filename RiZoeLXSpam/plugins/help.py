@@ -4,11 +4,11 @@ from time import time
 from datetime import datetime
 
     
-HELP_PIC = "https://telegra.ph/file/9acc785291052c8f8998d.jpg"
+HELP_PIC = "https://telegra.ph/file/d0c52ab731fce56412fdd.jpg"
 
-RiZoeLX = "🔥 𝗥𝗜𝗭𝗢𝗘𝗟 𝗫 𝗦𝗣𝗔𝗠 🔥\n\n"
+RiZoeLX = "🔥 𝙍𝙊𝙉𝙄𝙉 𝙓 𝙎𝙋𝘼𝙈🔥\n\n"
  
-RiZoeLX += f"__ᴄᴍᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ʀɪᴢᴏᴇʟ x sᴘᴀᴍ__\n\n"
+RiZoeLX += f"__ᴄᴍᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ℝ𝕆ℕ𝕀ℕ 𝕏 𝕊ℙ𝔸𝕄__\n\n"
 
 RiZoeLX += f" ↧ 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙲𝙼𝙳𝚂 ↧\n\n"
 
@@ -24,7 +24,7 @@ RiZoeLX += f" `.raid` - to raid\n `.replyraid` - to active reply raid\n `.dreply
  
 RiZoeLX += f"ALL CMDS WITH DETAILS [HERE.](https://telegra.ph/%F0%9D%97%A5%F0%9D%97%9C%F0%9D%97%AD%F0%9D%97%A2%F0%9D%97%98%F0%9D%97%9F-%F0%9D%97%AB-%F0%9D%97%A6%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%A0-10-15)\n\n"
  
-RiZoeLX += f"© @RiZoeLX | @DNHxHELL\n"
+RiZoeLX += f"© @DUSHMANXRONIN | @IMPERIAL_ARENA\n"
 
 
 @Riz.on(events.NewMessage(pattern=r"\.help"))
