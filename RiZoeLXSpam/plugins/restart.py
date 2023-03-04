@@ -27,7 +27,7 @@ import sys
 @Riz20.on(events.NewMessage(pattern=r"\.restart"))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        text = "**Restarting Your RiZoeL X Spam**.. Please Wait Until It Starts Again"
+        text = "**RUK PAANI PIKE AATA HU 🥵**.. Please Wait Until It Starts Again"
         await e.reply(text, parse_mode=None, link_preview=None)
         try:
             await Riz.disconnect()
